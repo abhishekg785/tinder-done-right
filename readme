@@ -1,0 +1,24 @@
+Tinder Done Right!
+------------------
+
+Note : Tinder recently launched their website.
+
+Are you tired of swiping right on tinder!!!!
+Don't worry, we got you :P
+
+Here is the solution => tinder done right
+
+Steps:
+Open the tinder website on your browser.
+Now login to tinder ( obvious :P)
+
+Now right click on the browser and select ' Inspect element '
+option.
+Now select the 'Console' option from the sidebar opened ( due to inspect element ) in the browser.
+
+Now copy the content of the file 'alwaysSwipeRight.js' into the 'console' and press enter.
+
+Voila! the right swipe begins :P
+
+
+Enjoy and no need for thanks! :P
