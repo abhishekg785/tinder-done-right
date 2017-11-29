@@ -4,7 +4,7 @@
 	let timeInterval = 500; // time is in milli seconds
 
 	setInterval(() => {
-		document.getElementsByClassName('recsGamepad__button--like')[0].click();
+		d.getElementsByClassName('recsGamepad__button--like')[0].click();
 	}, timeInterval);
 
 })(document);
